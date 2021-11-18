@@ -14,12 +14,12 @@
    
     git config --global user.email xxxxxx@xxx.com
 
- ![](https://chainide-global-metaverse-bootcamp-pr-img.s3.ap-northeast-1.amazonaws.com/GITCONFIG.png)
+ ![](https://chainide-global-metaverse-bootcamp-pr-img.s3.ap-northeast-1.amazonaws.com/Gitconfig.png)
 
    Create a local SSH —— Secure Shell.
 
     ssh-keygen -t rsa -C "xxxxxx@xxx.com" 
- ![](https://chainide-global-metaverse-bootcamp-pr-img.s3.ap-northeast-1.amazonaws.com/GenLocalSSH.png)
+ ![](https://chainide-global-metaverse-bootcamp-pr-img.s3.ap-northeast-1.amazonaws.com/Gitlocalssh.png)
 
    Configure SSH into Github Settings.
 
