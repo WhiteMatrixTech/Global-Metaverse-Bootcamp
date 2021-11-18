@@ -1,6 +1,6 @@
 ## Github PR Submission Guide ##
 
- **PR Submission Deadline: 2021.Dec.15th 08:00 UTC** 
+ **PR Submission Deadline: 2021.Dec.15th 00:00 PST(2021.Dec.15th 08:00 UTC)** 
 
 **1. [Create a Github account.](https://github.com/)**
 
