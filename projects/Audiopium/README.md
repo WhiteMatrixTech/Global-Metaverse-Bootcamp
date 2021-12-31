@@ -4,5 +4,7 @@ Dizzy - Smart Contracts Developemnt\
 EMK - Frontend Development\
 Sinderella - System Design\
 Project Intro: Music NFT Platform\
-Video Link:\
-Repository Addr: https://github.com/CryptoDizzy/Audiopium\
+Artists can add tracks to smart contract and fans can mint them as NFTs. \
+Audio and image files are stored in IPFS. \
+Video Link: https://youtu.be/zssCJV0_hgU \
+Repository Addr: https://github.com/CryptoDizzy/Audiopium
